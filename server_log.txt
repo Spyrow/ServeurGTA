@@ -1,0 +1,228 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:36:14] filterscripts = ""  (string)
+[11:36:14] 
+[11:36:14] Server Plugins
+[11:36:14] --------------
+[11:36:14]  Loaded 0 plugins.
+
+[11:36:14] 
+[11:36:14] Filterscripts
+[11:36:14] ---------------
+[11:36:14]   Loaded 0 filterscripts.
+
+[11:36:14] 
+----------------------------------
+[11:36:14]  Paroxysme Gamemode by Spyrow
+[11:36:14] ----------------------------------
+
+[11:36:14] Number of vehicle models: 0
+[11:38:09] [connection] 127.0.0.1:53987 requests connection cookie.
+[11:38:10] [connection] incoming connection: 127.0.0.1:53987 id: 0
+[11:38:10] [join] Spyrow has joined the server (0:127.0.0.1)
+[11:40:02] [part] Spyrow has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:06:03] filterscripts = ""  (string)
+[12:06:03] 
+[12:06:03] Server Plugins
+[12:06:03] --------------
+[12:06:03]  Loading plugin: mysql
+[12:06:05]   Failed.
+[12:06:05]  Loaded 0 plugins.
+
+[12:06:05] 
+[12:06:05] Filterscripts
+[12:06:05] ---------------
+[12:06:05]   Loaded 0 filterscripts.
+
+[12:06:05] 
+----------------------------------
+[12:06:05]  Paroxysme Gamemode by Spyrow
+[12:06:05] ----------------------------------
+
+[12:06:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:06:07] filterscripts = ""  (string)
+[12:06:07] 
+[12:06:07] Server Plugins
+[12:06:07] --------------
+[12:06:07]  Loading plugin: mysql
+[12:07:01]   Failed.
+[12:07:01]  Loaded 0 plugins.
+
+[12:07:01] 
+[12:07:01] Filterscripts
+[12:07:01] ---------------
+[12:07:01]   Loaded 0 filterscripts.
+
+[12:07:01] 
+----------------------------------
+[12:07:01]  Paroxysme Gamemode by Spyrow
+[12:07:01] ----------------------------------
+
+[12:07:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:07:53] filterscripts = ""  (string)
+[12:07:53] 
+[12:07:53] Server Plugins
+[12:07:53] --------------
+[12:07:53]  Loading plugin: mysql
+[12:08:13]   Failed.
+[12:08:13]  Loaded 0 plugins.
+
+[12:08:13] 
+[12:08:13] Filterscripts
+[12:08:13] ---------------
+[12:08:13]   Loaded 0 filterscripts.
+
+[12:08:13] 
+----------------------------------
+[12:08:13]  Paroxysme Gamemode by Spyrow
+[12:08:13] ----------------------------------
+
+[12:08:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:03] filterscripts = ""  (string)
+[12:10:03] 
+[12:10:03] Server Plugins
+[12:10:03] --------------
+[12:10:03]  Loading plugin: mysql
+[12:11:10]   Failed.
+[12:11:10]  Loaded 0 plugins.
+
+[12:11:10] 
+[12:11:10] Filterscripts
+[12:11:10] ---------------
+[12:11:10]   Loaded 0 filterscripts.
+
+[12:11:10] 
+----------------------------------
+[12:11:10]  Paroxysme Gamemode by Spyrow
+[12:11:10] ----------------------------------
+
+[12:11:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:58] filterscripts = ""  (string)
+[12:13:58] 
+[12:13:58] Server Plugins
+[12:13:58] --------------
+[12:13:58]  Loading plugin: mysql
+[12:14:23]   Failed.
+[12:14:23]  Loaded 0 plugins.
+
+[12:14:23] 
+[12:14:23] Filterscripts
+[12:14:23] ---------------
+[12:14:23]   Loaded 0 filterscripts.
+
+[12:14:23] 
+----------------------------------
+[12:14:23]  Paroxysme Gamemode by Spyrow
+[12:14:23] ----------------------------------
+
+[12:14:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:16:29] filterscripts = ""  (string)
+[12:16:29] 
+[12:16:29] Server Plugins
+[12:16:29] --------------
+[12:16:29]  Loading plugin: mysql
+[12:16:30]  >> plugin.mysql: R41-4 successfully loaded.
+[12:16:30]   Loaded.
+[12:16:30]  Loaded 1 plugins.
+
+[12:16:30] 
+[12:16:30] Filterscripts
+[12:16:30] ---------------
+[12:16:30]   Loaded 0 filterscripts.
+
+[12:16:30] 
+----------------------------------
+[12:16:30]  Paroxysme Gamemode by Spyrow
+[12:16:30] ----------------------------------
+
+[12:16:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:17:08] filterscripts = ""  (string)
+[12:17:08] 
+[12:17:08] Server Plugins
+[12:17:08] --------------
+[12:17:08]  Loading plugin: mysql
+[12:17:08]  >> plugin.mysql: R41-4 successfully loaded.
+[12:17:08]   Loaded.
+[12:17:08]  Loaded 1 plugins.
+
+[12:17:09] 
+[12:17:09] Filterscripts
+[12:17:09] ---------------
+[12:17:09]   Loaded 0 filterscripts.
+
+[12:17:09] 
+----------------------------------
+[12:17:09]  Paroxysme Gamemode by Spyrow
+[12:17:09] ----------------------------------
+
+[12:17:09] Number of vehicle models: 0
